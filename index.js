@@ -45,7 +45,7 @@ const secondUser = {
     favoriteColor: ['Blue','Black','Grey'],
     isHavePet: false,
     education: eduwendy,
-    favoriteRestaurant: ['Tempura','Bento','Pancake','Padang','Katsu','Geprek','Eggy']
+    favoriteRestaurant: ['Tempura','Bento','Sushi','Pancake','Padang','Katsu','Geprek','Eggy']
 };
 
 // TODO: Masukkan hasil akhir dari kedua user di sini
